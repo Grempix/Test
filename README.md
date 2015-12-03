@@ -1,4 +1,3 @@
 # Test
 
- pirmas is master
- antras is pakeitimas1
+trecias pakeitimas is pakeitimas2
